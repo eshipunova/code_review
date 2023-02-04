@@ -1,3 +1,4 @@
+# HMMMM what should i do
 # I think book-reading should be an easy one. Or a math computation of some kind.
 # Inputs: number
 # Outputs: all possible ways of adding digits together, printed out
@@ -20,6 +21,7 @@ def print_all(n):
         # 43|71730: 4 + 3 = 7, 7 + 1 + 7 + 3 + 0 = 18 => 7 = 7, 1 + 8 = 9 => 7 + 9 = 16 => 1 + 6 = 7
         # 437|1730: 4 + 3 + 7 = 14, 1 + 7 + 3 + 0 = 11 => 1 + 4 = 5, 1 + 1 = 2 => 5 + 2 = 7
         # 4371|730: 4 + 3 + 7 + 1 = 15, 7 + 3 + 0 = 10 => 1 + 5 = 6, 1 + 0 = 1 => 6 + 1 = 7
+        # It's cool that it's always 7. The proof is actually in the fact that we work with a decimal system but this is a neat little demonstration that it does work
 
         # It smells. Suspiciously so
         # Oh no, the kettle!!
