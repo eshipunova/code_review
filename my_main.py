@@ -65,5 +65,3 @@ def do_it_all(n):
 
 
 do_it_all(4371730)
-
-
